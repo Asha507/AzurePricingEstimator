@@ -1,0 +1,14 @@
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\RatecardApi.exe.config
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\RatecardApi.exe
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\RatecardApi.pdb
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\Projects\Ratecard\RatecardApi\RatecardApi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Ratecard\RatecardApi\RatecardApi\obj\Debug\RatecardApi.csprojAssemblyReference.cache
+D:\Projects\Ratecard\RatecardApi\RatecardApi\obj\Debug\RatecardApi.csproj.CoreCompileInputs.cache
+D:\Projects\Ratecard\RatecardApi\RatecardApi\obj\Debug\RatecardApi.csproj.CopyComplete
+D:\Projects\Ratecard\RatecardApi\RatecardApi\obj\Debug\RatecardApi.exe
+D:\Projects\Ratecard\RatecardApi\RatecardApi\obj\Debug\RatecardApi.pdb
